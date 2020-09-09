@@ -1,4 +1,5 @@
 # Echart-Data
+ - Echart Demo study [video](https://www.bilibili.com/video/BV1v7411R7mp?from=search&seid=8987401495001711022)
 
 ## 可视化面板介绍
 
